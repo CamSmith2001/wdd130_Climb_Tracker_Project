@@ -8,3 +8,6 @@ Email: liam.d.garcia@gmail.com
 
 Junior Dev: Holden Lederer
 Email: holdenlederer@gmail.com
+
+Client: Cam Smith
+Email: unknown
