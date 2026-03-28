@@ -1,2 +1,8 @@
-body{text-align: center; font-family: Libra ;background-color: #1F3C88;}
-.topnav{text-align: center;}
+head{text-align: center;color:white;}
+.topnav{text-align: center;font-size:larger;color:#F39C12;}
+a:link {color:#F39C12}
+body{text-align: center; font-family:Libra ;background-color: #1F3C88;color:#F39C12;}
+.center{margin:0 auto;width:50%;}
+
+
+
