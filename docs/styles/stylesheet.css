@@ -1,0 +1,79 @@
+head{text-align: center;color:white;}
+.topnav{text-align: center;font-size:larger;color:#F39C12;}
+a:link {color:#F39C12}
+body{text-align: center; font-family:Libra;background-color: #1F3C88;color:#F39C12;}
+.center{margin:0 auto;width:50%;}
+
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #2E2E2E;
+    height: 80px;
+    margin: -8px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    a {
+        padding: 26px;
+        color: #2ECC71;
+        font-size: 17px;
+    }
+}
+
+footer {
+    background-color: #2E2E2E;
+    height: 80px;
+    margin: -8px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: #2ECC71;
+    a {
+        padding: 26px;
+        color: #2ECC71;
+        font-size: 17px;
+    }
+    p {
+        padding: 11px;
+        font-size: 17px;
+    }
+}
+
+.prog-img {
+    width: 300px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.box-bar {
+    background-color: #2E2E2E;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 3px auto;
+    width: 99%;
+    p {
+        text-align: left;
+        margin-left: 10px;
+        font-size: 12px;
+    }
+}
+
+#prog-img-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#progress-box {
+    background-color: #2ECC71;
+    color: #F39C12;
+    width: 500px;
+    height: 300px;
+    overflow-y: auto;
+    margin: 50px auto;
+}
+
+#logo {
+    width: 90px;
+    margin: auto;
+}
